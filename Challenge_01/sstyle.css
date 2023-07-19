@@ -1,0 +1,75 @@
+*{
+  color: #E2E2E2;
+}
+
+#card{
+  width: 800px;
+  /*Tirei o height para se ajustar de acordo com o padding dele*/
+
+  padding: 50px;
+
+  margin: 20px auto 20px;
+
+  border: 1px solid #E2E2E2;
+  border-radius: 5px;
+
+
+}
+
+
+#header{
+  position: relative;
+
+}
+
+
+#profile, h1,#tittle-profile, #subtitle-profile, #imagem, #button{
+  background-color: #E2E2E2;
+  border-radius: 5px;
+}
+
+#profile{
+  width: 90px;
+  height: 90px;
+}
+/*Se colocar cor numa tag h sem algum texto - vai dar erro*/
+
+#tittle-profile{
+  width: 300px;
+  height: auto;
+
+  padding: 0px;
+  margin: 0px;
+
+  position: absolute;
+  top: 0px;
+  left: 130px;
+}
+
+#subtitle-profile{
+  width: 250px;
+  height: auto;
+
+  position: absolute;
+  top: 25px;
+  left: 130px;
+}
+
+#button{
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  width: 80px;
+  height: 40px;
+}
+
+
+/*  | #title-img{ } |Porque eu não consigo aumentar o tamanho da div filha ? */
+
+
+/*  background-color: #00ff1a;  Proque esta não deu certo pintar de verde ? sendo que o id tem > prioridade do que a tag */
+
+#imagem{
+  height: 250px;
+}

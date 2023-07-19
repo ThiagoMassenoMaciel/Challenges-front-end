@@ -1,0 +1,49 @@
+body{
+  margin-top: 0px ;
+  text-align: center;
+}
+
+#container h1{
+  text-align: center;
+  color: #453e3e;
+}
+
+#container{
+  position: fixed;
+  top: 0;
+  left: 450px;
+  width: 400px;
+  height: 400px;
+  
+  margin: 0 auto;
+  padding-top: 10px;
+
+  border-radius: 30px;
+  border: 1px solid #453e3e;
+
+  background-color: #b1b1b1;
+}
+
+#ChallengeOne{
+  position: static;
+  top: 70px;
+  right: 100px;
+
+  width: 100px;
+  
+  text-align: center;
+
+  border: 1px solid #ffff;
+  border-radius: 20px;
+
+  background-color: #453e3e;
+
+  z-index: 2;
+  
+  padding: 10px 10px;
+  margin: 30px;
+}
+
+a{
+  color: #ffff;
+}

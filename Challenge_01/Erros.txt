@@ -1,0 +1,12 @@
+Descobri o porque o h1 do profile não estava exatamente encaixando dentro da div header - justa causa pelo seu margin e ou padding automatico != de zero pixels
+
+Coloquei a tag h1 sem algo dentro dela - por isso ela não apareceu
+
+Objetivo 2- Quando eu mudasse o tamanho da div Card o resto das outras divs se ajustassem automaticamente
+
+  Eu queria que o tamanho da imagem se ajustasse de acordo com o que sobrasse do padding da div card , então não padronizei sua largur - eu so coloquei um ponto como filho da tag - isso foi o suficiente para automaticamente se auto ajustar a largura pro tamanho do que restasse do padding do card
+
+
+Porque o link da tag  a   não fica clicável de caso ela tiver dentro de uma div com a position sticky ?
+  a.coloquei static
+
