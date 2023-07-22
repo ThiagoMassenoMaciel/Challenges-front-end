@@ -6,4 +6,3 @@ Este projeto tem o objetivo de criar um layout usando conceitos básicos de html
 ###### Cores
  (#453e3e)---(#b1b1b1)---(#ffff)
 ##### [Link](https://thiagomassenomaciel.github.io/Challenges-front-end/)
-# Challenges-front-end
